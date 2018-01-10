@@ -1,5 +1,5 @@
-# DART 498-D / Post. Grad. Strategies 
+# Laura Hernandez 
 
-### Laura Hernandez / Personal webiste for DART 498 Work
+### Personal webiste for DART 498 Work
 
-Week 1: Graduate Schools Research
+[Week 1: Graduate Schools Research](laura-hdz.github.io/dart498/week1)
